@@ -1,0 +1,16 @@
+# repository
+bump2version
+docopt
+
+
+# project
+requests
+numpy
+pandas
+smart-open
+tqdm
+
+# google
+google-auth~=2.36.0
+google-cloud-functions~=1.18.1
+
